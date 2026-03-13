@@ -20,7 +20,11 @@
 - Go to developer options
 - Enable debugging
 - Grab the IP from About, Status (usually a 192 ip within there)
-- With windows command line opened in an extracted adb folder type `adb connect 192.###)
+- With windows command line opened in an extracted adb folder type `adb connect 192.###`
+
+## To run directv.bat
+- With windows command line opened in an extracted adb folder type `adb connect 192.###`
+- directv.bat
 
 ## To install apps via adb 
 
