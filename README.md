@@ -49,3 +49,5 @@ Requires termux, termux:x11, termux:widget installed
 - cp ~/storage/downloads/open.sh ~/open.sh
 - dos2unix ~/open.sh
 - bash ~/open.sh
+
+## Youtube video https://www.youtube.com/watch?v=x_oFUXLN5IE
